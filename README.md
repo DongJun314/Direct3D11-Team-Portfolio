@@ -27,7 +27,7 @@
 <br>
 
 ## 🔗 Link
-- [Portfolio Video]()
+- [Portfolio Video](https://youtu.be/NmdzlMohV5g)
 
 <br>
 
