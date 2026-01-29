@@ -26,7 +26,7 @@
 
 <br>
 
-## 🔗 Links
+## 🔗 Link
 - [Portfolio Video]()
 
 <br>
