@@ -1,37 +1,19 @@
+<h1 align="center">🕹️ Direct3D 11 Team Portfolio – Map Tool & System Demo</h1>
+<p align="center">
+  This project was developed to gain <strong>hands-on experience</strong> with <strong>DirectX 11</strong>
+  and to deepen understanding of <strong>map creation and rendering</strong>.<br>
+  We chose an <strong>open-world survival genre</strong> to challenge ourselves with complex system architectures
+  and large-scale structures.
+</p>
 
-<p align="left">
+<p align="center">
   <a href="./README.md">English</a> |
   <a href="./README_jp.md">日本語</a>
 </p>
 
-<h1 align="center">🕹️ # Direct3D 11 Map Tool & System Demo (Team Project) Direct3D 11 Portfolio – Technical Game System Demo</h1>
-<p align="center">
-   This project was conducted to gain hands-on experience with various DirectX 11 features <br>
-   and to improve understanding and implementation skills related to map creation. <br>
-   A survival game genre with open-world characteristics was selected to explore complex system structures.
-</p>
 
-<br>
-
-## 🌟 Highlights
-
+## 🌟 Highlights (Map Tool)
 <table>
-  <tr>
-    <th style="text-align:center">Inventory</th>
-    <th style="text-align:center">Monster Box</th>
-  </tr>
-  <tr>
-    <td style="text-align:center">
-      <img src="https://github.com/user-attachments/assets/7ea1ddb4-0965-4105-9828-984f4c3d8c2a" width="400" height="300">
-    </td>
-    <td style="text-align:center">
-      <img src="https://github.com/user-attachments/assets/cda8c229-92f3-4052-a3a0-d81717911e95" width="400" height="300">
-    </td>
-  </tr>
-  <tr>
-    <th style="text-align:center">Item Box</th>
-    <th style="text-align:center">Map Tool</th>
-  </tr>
   <tr>
     <td style="text-align:center">
       <img src="https://github.com/user-attachments/assets/2136b6d7-7c41-4c89-9cc6-dc24a8a0a04f" width="400" height="300">
@@ -45,13 +27,13 @@
 <br>
 
 ## 🔗 Links
-- [Portfolio Video](https://youtu.be/ivREuYYGLYA)
+- [Portfolio Video]()
 
 <br>
 
 ## 📜 Project Overview
 - **Duration**: `2024.03.18 ~ 2024.05.24`
-- **Team Size**: `5`
+- **Team Size**: `5 members`
 - **Role**: `Map Tool`, `Inventory System`, `Inventory UI`
 
 <br>
@@ -72,7 +54,6 @@
 <br>
 
 ## ⚠️ Note
-
-This project was conducted as a **non-public educational team project**.  
-All materials submitted externally, including videos and documentation,  
-**exclude or replace any assets or UI elements that could raise copyright concerns**.
+- This project was developed for **educational purposes** and is **non-public release**.
+- **All copyright-sensitive materials** within the videos and documentation
+have been **excluded or replaced** to address any potential copyright concerns regarding assets or UI elements.
