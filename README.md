@@ -5,7 +5,11 @@ DirectX 11–Based Map Tool–Focused Game Development Technical Demo (Team Proj
   <a href="#-english">English</a> |
   <a href="#README_jp.md">日本語</a>
 </p>
-[English](./README.md) | [日本語](./README_jp.md)
+
+<p align="left">
+  <a href="./README.md">English</a> |
+  <a href="./README_jp.md">日本語</a>
+</p>
 
 # DirectX 11–Based Map Tool–Focused Game Development Technical Demo (Team Project)
 
