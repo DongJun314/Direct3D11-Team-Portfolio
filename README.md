@@ -34,7 +34,7 @@
 ## 📜 Project Overview
 - **Duration**: `2024.03.18 ~ 2024.05.24`
 - **Team Size**: `5 members`
-- **Role**: `Map Tool`, `Inventory System`, `Inventory UI`
+- **Key Contributions**: `Map Tool`, `Inventory System`, `Inventory UI`
 
 <br>
 
@@ -53,7 +53,7 @@
 
 <br>
 
-## ⚠️ Note
+## ⚠️ Notes
 - This project was developed for **educational purposes** and is **non-public release**.
 - **All copyright-sensitive materials** within the videos and documentation
 have been **excluded or replaced** to address any potential copyright concerns regarding assets or UI elements.
