@@ -3,7 +3,7 @@ DirectX 11–Based Map Tool–Focused Game Development Technical Demo (Team Proj
 
 <p align>
   <a href="#-english">English</a> |
-  <a href="#-日本語">日本語</a>
+  <a href="#README_jp.md">日本語</a>
 </p>
 
 # DirectX 11–Based Map Tool–Focused Game Development Technical Demo (Team Project)
