@@ -26,7 +26,7 @@
 <br>
 
 ## 🔗 リンク
-- [ポートフォリオ動画](https://youtu.be/NmdzlMohV5g)
+- [デモ動画](https://youtu.be/NmdzlMohV5g)
 
 <br>
 
